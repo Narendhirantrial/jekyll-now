@@ -3,7 +3,7 @@ layout: post
 title: Firstpost
 ---
 
-Adingommala 
+Adingommala.. 
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
